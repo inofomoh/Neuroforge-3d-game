@@ -1,0 +1,1 @@
+// Placeholder for game.js in GTA6_3D_Game/frontend/
